@@ -1,0 +1,13 @@
+body{
+    background-color: rgb(87, 10, 211);
+    
+}
+p{
+    color: rgb(215, 208, 13);
+}
+.class1{
+    background-image: url("image/back.jpg"); height: auto; width: 100%;
+    background-repeat: no-repeat;
+    background-position: center center;
+   border-color: rgb(239, 9, 9) rgb(83, 235, 17);
+}
